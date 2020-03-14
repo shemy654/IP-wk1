@@ -44,4 +44,6 @@ body{
 #about img{
     border: 2px solid white;
   }
- 
+  #projects{
+    text-align: center;
+}
