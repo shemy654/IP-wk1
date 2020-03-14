@@ -41,3 +41,7 @@ body{
  #about{
     text-align: center;
 }
+#about img{
+    border: 2px solid white;
+  }
+ 
