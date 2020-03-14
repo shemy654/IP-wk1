@@ -38,3 +38,6 @@ body{
      cursor: pointer;
      transition: opacity .125s linear;
  }
+ #about{
+    text-align: center;
+}
